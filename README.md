@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Faisal Nazir! 👋</h1>
 <p align="center">
-  I'm a passionate Flutter developer, crafting delightful mobile experiences.
+  A passionate Flutter developer, crafting delightful mobile experiences.
 </p>
 
 <!-- Skills -->
