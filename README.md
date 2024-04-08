@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/header.png" alt="Header Image" />
+  <img src="https://media.licdn.com/dms/image/D4D16AQHwUNg0lMGmyA/profile-displaybackgroundimage-shrink_200_800/0/1683304500369?e=2147483647&v=beta&t=EY93IlIMPrSOQM6ZrK0TzS852ptMfibEccAwN0XPMDw" alt="Header Image" />
 </p>
 
 <!-- Introduction -->
@@ -46,24 +46,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faisalnazir28" alt="Visitor Badge" />
 </p>
 
-
-⚡ **Fun Fact:**
-Did you know that Flutter was initially released by Google in May 2017?
-
-Feel free to explore my repositories and reach out for collaboration or any inquiries! 😊
-
-
-<!--
-**FaisalNazir28/faisalnazir28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
